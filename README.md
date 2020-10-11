@@ -1,2 +1,7 @@
 # Elo-Merchant-Category-Recommendation
-Predict loyalty scores for customers to target the customers better
+
+Description:
+
+Data Source: https://www.kaggle.com/c/elo-merchant-category-recommendation/data
+
+
