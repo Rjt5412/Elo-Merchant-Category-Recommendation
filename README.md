@@ -8,11 +8,7 @@ Customer loyalty would give us an idea of how often the users/customers use thes
 
 Data Source: https://www.kaggle.com/c/elo-merchant-category-recommendation/data
 
-<b> Models:</b>
 <br>
-1. Baseline Regression Models<br>
-2. LGBM Goss Models stacked as an input to the Bayesian Ridge Regression Model(Meta model)<br>
-3. Low and High Prob Model architecture<br>
 
 Checkout the blog link for the complete approach: https://medium.com/@rajat.malviya5412/elo-merchant-category-recommendation-a-case-study-33e84b8465c7
 
