@@ -10,5 +10,5 @@ Data Source: https://www.kaggle.com/c/elo-merchant-category-recommendation/data
 
 <br>
 
-Checkout the blog link for the complete approach: https://medium.com/@rajat.malviya5412/elo-merchant-category-recommendation-a-case-study-33e84b8465c7
+Checkout the blog for the complete approach: https://medium.com/@rajat.malviya5412/elo-merchant-category-recommendation-a-case-study-33e84b8465c7
 
