@@ -1,6 +1,6 @@
 # Elo-Merchant-Category-Recommendation
 
-<b> Problem:</b>
+
 <br>
 Elo is one of the largest payment brands in Brazil. They provide restaurant recommendations for a user along with discounts based on the user's credit card provider and restaurant preferences. Elo has built partnerships with various brands to offer promotions and discounts from various merchants to the user.
 Now, our problem at hand is to find out how useful and beneficial these promotions are for merchants as well as the users(customers). We need to find out if the customers actually use these promotions or discounts offered to them. We would achieve this by predicting a metric called customer loyalty score. This would be our target variable to predict. So we would be predicting loyalty scores for each card.
